@@ -8,7 +8,7 @@
         "zod": "^4.1.13",
       },
       "devDependencies": {
-        "@types/bun": "latest",
+        "@types/bun": "^1.3.4",
       },
       "peerDependencies": {
         "typescript": "^5",
